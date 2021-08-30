@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_nombre">Nombre</string>
+    <string name="help_required">Obligatorio</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="hint_altura">Altura</string>
+    <string name="help_min_height">Mínimo 50cm</string>
+    <string name="hint_fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="hint_pais">País</string>
+    <string name="hint_lugar_de_nacimiento">Lugar de nacimiento</string>
+    <string name="hint_notas">Notas</string>
+    <string name="dialog_title">Datos recolectados</string>
+    <string name="dialog_limpiar">Limpiar</string>
+    <string name="dialog_cancelar">Cancelar</string>
+    <string name="help_alturaminima">La altura minima es de 50cm</string>
+</resources>

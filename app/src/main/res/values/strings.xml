@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable = "false">Form</string>
+    <string name="hint_nombre">Name</string>
+    <string name="help_required">Required</string>
+    <string name="hint_apellidos">Surname</string>
+    <string name="hint_altura">Height</string>
+    <string name="help_min_height">Mínimum 50cm</string>
+    <string name="hint_fecha_de_nacimiento">Date of birth</string>
+    <string name="hint_pais">Country</string>
+    <string name="hint_lugar_de_nacimiento">Birthplace</string>
+    <string name="hint_notas">Notes</string>
+    <string name="dialog_title">Data collected</string>
+    <string name="dialog_limpiar">Clear</string>
+    <string name="dialog_cancelar">Cancel</string>
+    <string name="help_alturaminima">Must be equal to or greater than 50cm</string>
+</resources>
